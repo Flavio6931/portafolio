@@ -281,7 +281,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 title: 'Morales Dev Suite',
                 subtitle: 'Herramienta integral de optimización extrema, diagnóstico de hardware y kernel tuning para Windows.',
                 video: 'assets/videos/morales_dev.mp4',
-                placeholderImg: 'assets/images/morales_development.png?v=3.1',
+                placeholderImg: 'assets/images/morales_development.webp?v=3.1',
                 features: [
                     '<strong>Arquitectura Híbrida C# & C++:</strong> Frontend moderno en WPF (.NET 8.0) enlazado a un núcleo nativo C++ compilado con Nuitka para ejecución instantánea sin dependencias.',
                     '<strong>Optimizaciones a Nivel de Kernel:</strong> NtSetTimerResolution a 0.5ms nativo, kernel 100% en memoria RAM y priorización dinámica de CPU para erradicar micro-tirones (stuttering).',
@@ -313,7 +313,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 title: 'Morales Dev Suite',
                 subtitle: 'Comprehensive Windows optimization, hardware diagnostics, and kernel tuning suite.',
                 video: 'assets/videos/morales_dev.mp4',
-                placeholderImg: 'assets/images/morales_development.png?v=3.1',
+                placeholderImg: 'assets/images/morales_development.webp?v=3.1',
                 features: [
                     '<strong>Hybrid C# & C++ Architecture:</strong> Modern WPF (.NET 8.0) frontend linked to a native C++ core compiled with Nuitka for instant standalone execution.',
                     '<strong>Kernel-Level Tuning:</strong> NtSetTimerResolution set to native 0.5ms, kernel 100% in RAM, and dynamic CPU scheduling to eliminate micro-stuttering.',
@@ -347,7 +347,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 title: 'DupCleaner',
                 subtitle: 'Aplicación Android nativa para detección y depuración inteligente de contactos duplicados.',
                 video: 'assets/videos/0731.mp4',
-                placeholderImg: 'assets/images/dupcleaner.png',
+                placeholderImg: 'assets/images/dupcleaner.webp',
                 features: [
                     '<strong>Arquitectura MVVM Desacoplada:</strong> Desarrollada 100% en Kotlin nativo y Jetpack Compose moderno, garantizando reactividad total y cero dependencias obsoletas.',
                     '<strong>Algoritmo de Detección Inteligente:</strong> Escaneo profundo de la agenda reconociendo duplicados por similitud de nombres, números normalizados y coincidencias difusas.',
@@ -370,7 +370,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 title: 'DupCleaner',
                 subtitle: 'Native Android application for intelligent duplicate contact detection and cleanup.',
                 video: 'assets/videos/0731.mp4',
-                placeholderImg: 'assets/images/dupcleaner.png',
+                placeholderImg: 'assets/images/dupcleaner.webp',
                 features: [
                     '<strong>Decoupled MVVM Architecture:</strong> Built 100% in native Kotlin and modern Jetpack Compose, ensuring full reactivity and high UI performance.',
                     '<strong>Intelligent Detection Algorithm:</strong> Deep phonebook scanner recognizing duplicates through name similarity, normalized numbers, and fuzzy matching.',
@@ -404,8 +404,8 @@ Deseo solicitar el servicio de optimización para mi computadora con Morales Dev
 - Memoria RAM: 
 - Uso principal: [ eSports / Juegos / Edición / Trabajo ]
 
-🔗 Referencia del software: https://flavio6931.github.io/
-🖼️ Captura de Morales Dev Suite: https://flavio6931.github.io/assets/images/morales_development.png`
+🔗 Referencia del software: https://flavio6931.github.io/portafolio/
+🖼️ Captura de Morales Dev Suite: https://flavio6931.github.io/portafolio/assets/images/morales_development.png`
         },
         en: {
             subject: 'Optimization Service Request - Morales Dev Suite',
@@ -419,8 +419,8 @@ I would like to request the optimization service for my computer using Morales D
 - RAM memory: 
 - Main use case: [ Gaming / eSports / Editing / Work ]
 
-🔗 Software reference: https://flavio6931.github.io/
-🖼️ Morales Dev Suite screenshot: https://flavio6931.github.io/assets/images/morales_development.png`
+🔗 Software reference: https://flavio6931.github.io/portafolio/
+🖼️ Morales Dev Suite screenshot: https://flavio6931.github.io/portafolio/assets/images/morales_development.png`
         }
     };
 

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Proyectos de Flavio6931</title>
+    <style>
+      :root {
+        --bg: #ffffff;
+        --text: #111827;
+        --muted: #4b5563;
+        --primary: #2563eb;
+        --border: #e5e7eb;
+        color-scheme: light;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #111827;
+          --text: #f9fafb;
+          --muted: #9ca3af;
+          --primary: #60a5fa;
+          --border: #374151;
+          color-scheme: dark;
+        }
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font: 16px/1.6 system-ui, -apple-system, 'Segoe UI', sans-serif;
+      }
+      main {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 48px 16px;
+      }
+      h1 {
+        margin-top: 0;
+      }
+      a {
+        color: var(--primary);
+      }
+      .project {
+        padding: 16px 20px;
+        border: 1px solid var(--border);
+        border-radius: 12px;
+      }
+      .project p {
+        margin: 4px 0 0;
+        color: var(--muted);
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Proyectos</h1>
+      <div class="project">
+        <a href="/correo-rapido/"><strong>Correo Rápido</strong></a>
+        <p>Extensión para navegador que muestra tus correos de Gmail recibidos y enviados en un popup, con filtros rápidos por fecha.</p>
+        <p><a href="/correo-rapido/privacidad.html">Política de privacidad</a></p>
+      </div>
+    </main>
+  </body>
+</html>
